@@ -5,7 +5,7 @@
 【動作環境】 Windows10(その他未確認)  
 【作者名】 kazuryu  
 【連絡先】 https://twitter.com/kazuryu_RL  
-【配布元】 http://aboon.s33.xrea.com  
+【配布元】 https://github.com/Kazuryu0907/MCSS    
 【転載条件】 なし  
 *****************************************************************  
 
